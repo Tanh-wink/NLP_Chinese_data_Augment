@@ -8,6 +8,6 @@
 将数据增强代码进行封装成一个类，方便调用。  
 
 # requirements
-jieba
+jieba  
 synonyms
 
